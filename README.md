@@ -55,14 +55,3 @@
   <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/></a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushR-Tech&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushR-Tech&theme=dark" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushR-Tech&layout=compact&theme=dark" width="40%" />
-</p>
