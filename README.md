@@ -6,18 +6,18 @@
 ### 🧑‍💻 About Me:
 
 - 🎓 I’m currently pursuing **B.Tech in Computer Engineering**
-- 🌱 I’m currently learning **Full Stack Development, DevOps, and Cloud Technologies (AWS)**
+- 🌱 I’m currently learning **Artificial Intelligence and machine learning, and Cloud Technologies (AWS)**
 - 👨‍💻 All of my projects are available at: [https://github.com/AyushR-Tech](https://github.com/AyushR-Tech)
-- 💬 Ask me about: **Frontend Development, Python, Machine Learning, and Databases**
-- 📫 How to reach me: **ayushrewatkar2012@gmail.com**
+- 💬 Ask me about: **Artificial Intelligence, Python, Machine Learning, and Databases**
+- 📫 How to reach me: **ayushrewatkar011@gmail.com**
 - ⚡ Fun fact: I love exploring new tech stacks and automating boring tasks!
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-rewatkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ayush-rewatkar" height="30" width="40" /></a>
-  <a href="mailto:ayushrewatkar2012@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/ayush-rewatkar-246b8826b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ayush-rewatkar" height="30" width="40" /></a>
+  <a href="mailto:ayushrewatkar011@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
   <a href="https://github.com/AyushR-Tech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
