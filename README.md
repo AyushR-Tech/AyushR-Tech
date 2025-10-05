@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Ayush Rewatkar
-
 <div align="center">
-  
-  ### 💻 Final Year Computer Engineering Student | AI Enthusiast | Cloud Explorer
-  
-  **Building AI Solutions 🤖 | Exploring Cloud Technologies ☁️ | Automating the Future 🚀**
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Rewatkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
+<div align="center">
+💻 Final Year Computer Engineering Student | AI Enthusiast | Cloud Explorer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3CADE8&center=true&vCenter=true&random=false&width=600&lines=Building+AI+Solutions+%F0%9F%A4%96;Exploring+Cloud+Technologies+%E2%98%81%EF%B8%8F;Automating+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+<br/>
 
 ---
 
