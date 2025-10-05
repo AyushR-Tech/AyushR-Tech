@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ayush%20Rewatkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,27,30&height=180&section=header&text=Ayush%20Rewatkar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
-
 <div align="center">
   
   ### 💻 Final Year Computer Engineering Student | AI Enthusiast | Cloud Explorer
@@ -133,13 +132,6 @@ me.say_hi()
 
 <br/>
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-<br/>
 
 ## 🎵 Currently Vibing To
 
